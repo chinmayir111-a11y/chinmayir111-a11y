@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Chinmayi 👋</h1>
 <p align="center">Computer Engineering Student · Python · AI & Machine Learning</p>
-
+<p align="center">
+  <img src="bunny.gif" width="150" />
+</p>
 ---
 
 ### 👋 About Me
