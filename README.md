@@ -3,9 +3,9 @@
 <p align="center">
   <img src="bunny.gif" width="150" />
 </p>
----
 
 ### 👋 About Me
+
 
 - 🤖 I build **machine learning systems** in Python
 - 🚀 Currently working on **BHOOSHAKTI AI** — landslide early warning for North-East India
@@ -55,9 +55,13 @@ AI-powered platform for students — study, career and community in one place.
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmayir111-a11y&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayir111-a11y&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chinmayir111-a11y&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayir111-a11y&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
