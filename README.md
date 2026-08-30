@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Chinmayi 👋</h1>
 <p align="center">Computer Engineering Student · Python · Machine Learning</p>
 
-<p align="center">
-  <img src="bunnygif.webp" width="150" />
-</p>
-
 ---
 
 ### 👋 About Me
@@ -53,11 +49,4 @@ Web application built with TypeScript.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chinmayir111-a11y&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayir111-a11y&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmayir111-a11y)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayir108@gmail.com)
+</
